@@ -1,6 +1,5 @@
 #CRUD Operation With Python & SQL
 #edit the Comments for the Operation
-
 import mysql.connector
 
 con = mysql.connector.connect(host = "localhost" , user = "testuser" , passwd = "test12345" , database = "CompanyList")
